@@ -1,0 +1,7 @@
+tensorflow
+numpy
+matplotlib
+pylint
+requests
+jupyter
+grpcio
